@@ -5,7 +5,7 @@
 
 
 import tkinter as tk
-from FrameMain import *
+from frameMain import *
 from functions import *
 
 
