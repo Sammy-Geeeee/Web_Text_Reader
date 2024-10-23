@@ -1,7 +1,10 @@
 # Web Text Reader
 
-# This program will display all the text content of a given url, in plain text format
-# The purpose of this was largely to be able to view NZ Herald premium articles, but it works on any site
+"""
+This program will display all the text content of a given url, in plain text format
+
+The purpose of this was largely to be able to view NZ Herald premium articles, but it works on any site
+"""
 
 
 import tkinter as tk
